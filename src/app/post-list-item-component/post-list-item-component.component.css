@@ -1,0 +1,24 @@
+.bouton{
+    margin : 0 10px 0 0;
+
+}
+
+.date{
+    font-size: small;
+    color: gray;
+    text-align: right;
+}
+
+.titre{
+    margin-top: -20px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.content{
+    margin:  15px 0 15px 0;
+}
+
+.item{
+    margin-bottom: 5px;
+}
