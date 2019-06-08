@@ -3,8 +3,7 @@ import {Post} from '../Post';
 
 @Component({
   selector: 'app-post-list-item-component',
-  templateUrl: './post-list-item-component.component.html',
-  styleUrls: ['./post-list-item-component.component.css']
+  templateUrl: './post-list-item-component.component.html'
 })
 export class PostListItemComponentComponent implements OnInit {
 
